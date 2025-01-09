@@ -16,3 +16,29 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## NAMA :DIMAS PERMANA
+## NIM  : 362358302004
+## KELAS : 2A TRPL
+
+## DISINI SAYA UNTUK MENYIMPAN DATA NYA MENGGUNKAN STATIC
+-
+UNTUK TAMPILAN UATAMA PADA PROJEK INI
+![Screenshot 2025-01-09 190652](https://github.com/user-attachments/assets/0fbc9cd8-ef1b-4256-94f1-288d7df4833b)
+
+-
+UNTUK TAMPILAN SIGN UP
+![Screenshot 2025-01-09 190850](https://github.com/user-attachments/assets/43c99fc1-15dd-41c3-8326-f6584bb52640)
+
+-
+UNTUK TAMPILAN SIGN IN
+![Screenshot 2025-01-09 190757](https://github.com/user-attachments/assets/f069eb8a-e254-4f1e-b7e3-67c8e5f42623)
+
+-
+UNTUK TAMPILAN DHASBOR
+![Screenshot 2025-01-09 195756](https://github.com/user-attachments/assets/d1efae34-5a32-4230-a025-14fadf724a09)
+
+- UNTUK TAMPILAN MESSAGE
+- ![Screenshot 2025-01-09 195815](https://github.com/user-attachments/assets/61770681-dd03-468a-9c19-dce6e4e1af31)
+
+
