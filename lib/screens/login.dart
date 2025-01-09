@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'register.dart';
+import 'homescreen.dart'; 
 
 class loginpage extends StatefulWidget {
   @override
@@ -62,7 +63,7 @@ class _loginpageState extends State<loginpage> {
                       ),
                       onPressed: () {
                         setState(() {
-                          _isPasswordVisible = !_isPasswordVisible; // Toggle visibilitas password
+                          _isPasswordVisible = !_isPasswordVisible; 
                         });
                       },
                     ),
@@ -82,7 +83,13 @@ class _loginpageState extends State<loginpage> {
             ),
             SizedBox(height: 32),
             ElevatedButton(
-              onPressed: () {},
+              onPressed: () {
+
+                Navigator.pushReplacement(
+                  context,
+                  MaterialPageRoute(builder: (context) => HomeScreen()),
+                );
+              },
               child: Text("Sign In"),
               style: ElevatedButton.styleFrom(
                 backgroundColor: const Color.fromARGB(255, 81, 71, 223),
@@ -112,7 +119,7 @@ class _loginpageState extends State<loginpage> {
                   MaterialPageRoute(builder: (context) => registerpage()),
                 );
               },
-              child: Text("Don't have an account? register Now"),
+              child: Text("Don't have an account? Register Now"),
             ),
           ],
         ),
